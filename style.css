@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 1450px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+header{
+    background-color: rgba(246, 244, 236, 1);
+    color: rgba(180, 96, 77, 1);
+}
+header img{
+    padding-left: 200px;
+}
+.zzz{
+    padding-left: 120px ;
+}
+header ul li{
+    margin-right: 28px;
+    font-size: 20px;
+}
+header h1{
+    padding-left: 400px;
+}
+a{
+    text-decoration: none;
+}
+.bosh{
+    display: flex;
+        align-items: center;
+}
+    .bosh h1{
+        font-size: 18px;
+        display: flex;
+    }
+    .bir{
+        background-color: rgba(169, 174, 141, 1);
+        color: white;
+    }
+.bir h2{
+    padding-top: 69px;
+}
+.bir h1{
+    padding-top: 20px;
+}
+.bir button{
+    margin-top: 30px;
+    width: 128px;
+    height: 48px;
+    background-color: rgba(180, 95, 77, 1);
+    border-radius: none;
+    margin-bottom: 51px;
+}
+.container div img{
+    display: flex;
+}
+main h3{
+    display: flex;
+    color:rgba(180, 95, 77, 1) ;
+    margin-bottom: 20px;
+}
+main h4{
+    display: flex;
+    color: rgba(180, 95, 77, 1);
+    margin-bottom: 100px;
+}
+.ikki{
+    display: flex;
+    background-color: rgba(246, 244, 236, 1);
+}
+.ikki div{
+    margin-top: 50px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.banner {
+    position: relative;
+    width: 100%;
+    max-width: 1140px;
+    height: auto;
+    margin: 20px auto;
+    border: 2px solid #009dff;
+    overflow: hidden;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(202, 143, 104, 0.9);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+}
+
+.shop-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.shop-link:hover {
+    text-decoration: underline;
+}
+.uch{
+    display: flex ;
+    background-color: rgba(241, 211, 185, 1);
+}
+.matn{
+    width: 500px;
+    height: 750px;
+        margin-top: 80px;
+            margin-bottom: 67px;
+    padding-top: 250px;
+    margin-right: 120px;
+    margin-left: 204px;
+    background-color: white;
+    font-size: 21px;
+    color: rgba(180, 95, 77, 1);
+
+}
+.rasmm{
+    margin-left: 118px;
+    margin-top: 80px ;
+    margin-bottom: 67px;
+}
+ul li{
+    list-style: none;
+    display: flex;
+}
+ul{
+    display: flex;
+}
+.rasmlar{
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-bottom: 40px;
+}
+.rasmlar ul li img{
+    padding-left: 8px;
+}
+footer{
+    height: 300px;
+    background-color: rgba(246, 244, 236, 1);
+}
+.tort h5{
+    margin-top: 30px;
+    margin-bottom: 45px;
+    font-size: 22px;
+}
